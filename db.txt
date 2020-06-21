@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 checkingout from master branch to bugfix branch
 bbdcubsuui
+=======
+checkingout from master branch to bugfix branc
+checking the branch stratagy 
+checkingout from bugfix1 to masterh
+
+>>>>>>> bugfix1
