@@ -1,2 +1,4 @@
-checkingout from master branch to bugfix branch
+checkingout from master branch to bugfix branc
+checking the branch stratagy 
+checkingout from bugfix1 to masterh
 
